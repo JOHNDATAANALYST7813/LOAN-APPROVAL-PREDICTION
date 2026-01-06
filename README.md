@@ -10,7 +10,7 @@
 
 ## 2. The Data & Preprocessing
 We started with a raw dataset containing missing values and categorical text.
-### 🛠 Data Cleaning (Imputation)
+###  Data Cleaning (Imputation)
 * **Problem:** The dataset had significant missing values (e.g., `Credit_History` had 50 missing entries).
 * **Solution:**
     * **Categorical Variables (Gender, Married, Credit History):** Filled with the **Mode** (Most Frequent Value).
